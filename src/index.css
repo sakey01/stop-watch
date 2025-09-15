@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btn {
+  @apply cursor-pointer px-4 py-2 bg-gradient-to-r text-white rounded-3xl;
+}
