@@ -1,4 +1,4 @@
-## Stop Watch
+## ⏱️ Stop Watch
 
 Have the power of time in your hands with this stop watch. Outcompetes regular clocks by 1 ms.
 
